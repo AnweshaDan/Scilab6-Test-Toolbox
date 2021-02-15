@@ -1,0 +1,1 @@
+int trans(int* arr, int n, int m);
